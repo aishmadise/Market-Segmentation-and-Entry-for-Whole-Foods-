@@ -1,1 +1,5 @@
 # Market-Segmentation-and-Entry-for-Whole-Foods-
+
+The objective of this research is to identify which markets in Europe Whole Foods could enter and back our strategy with data analysis. Utilizing R/GLIMMIX, we identified the ideal number of segments we can use to categorize the 105 regions into. We found that France followed by BRDeutschland, and Italy had the highest number of regions in segment 2. However, keeping in mind that regions with high posterior probabilities are more feasible for market entry, we determined that Whole Foods should consider expanding its stores in BRDeutschland. Considering supply chain efficiency is crucial to market expansion, despite other countries having regions with high posterior membership probabilities, we focused on expansion in one country rather than in multiple regions across various countries. Furthermore, we focused on targeting spatially concentrated market segments within BRDeutschland such as Dusseldorf, Koln, Stuttgart, Unterfranken, and Thuringen.
+
+Note: Datasets used in this academic research project is highly classified and as such, I am not able to make them available to the public.
